@@ -1,0 +1,44 @@
+PLANT
+Mon/Breakfast: 	Tofu.			Lunch: Avocado,corn,salsa.	Dinner: Veggie pizza.
+Tue/Breakfast: 	Oatmeal muffins.	Lunch: Tomato soup.		Dinner: Fried Veggies.
+Wed/Breakfast: 	Oatmeal bars.		Lunch: Greek salad.		Dinner: Spinach.
+Thu/Breakfast: 	Eggs,pepper,salsa.	Lunch: Veggie burger.		Dinner: Roasted potatos.
+Fri/Breakfast: 	Berries and granola bar.Lunch: Tomato sandwich.		Dinner: Whole-wheat pasta.
+Sat/Breakfast: 	Almond butter.		Lunch: Avocado toast.		Dinner: Mushroom enchiladas.
+Sun/Breakfast: 	Oatmeal and almond milk.Lunch: Roasted carrots.		Dinner: Avocado slices.
+~
+LOWFAT
+Mon/Breakfast:	cornflakes,1 banana.		Lunch: wheat pita,lettuce,cheese.	Dinner: Parmesan cheese,brocolli.
+Tue/Breakfast:	Berry milkshake,2 boiled eggs.	Lunch: Tomato soup.			Dinner: Grilled chicken breast.
+Wed/Breakfast:	lowfat-milk,honey.		Lunch: Chicken salad.			Dinner: Steamed Shrimp.
+Thu/Breakfast:	English muffin,greek yougurt.	Lunch: mixed vegetable soup.		Dinner: Poached salmon.
+Fri/Breakfast:	Cheerios,almonds.		Lunch: quasadilla,fried beans.		Dinner: Roasted lamb.
+Sat/Breakfast:	Frozen waffle.			Lunch: tuna sandwich.			Dinner: Sausage,black beans.
+Sun/Breakfast:	Steamed spinach.		Lunch: Black bean salad.		Dinner: grilled steak.
+~
+KETO
+Mon/Breakfast:	Egg muffins.	Lunch: Lettuce wraps.		Dinner: Keto meatballs,cheese.
+Tue/Breakfast: 	Egg muffins.	Lunch: Keto meatballs.		Dinner: Keto chicken burger.
+Wed/Breakfast: 	Egg muffins.	Lunch: Keto chicken burger.	Dinner: Keto tuna burger.
+Thu/Breakfast: 	Veggie scramble.Lunch: Keto tuna burger.	Dinner: Keto zucchini.
+Fri/Breakfast: 	Veggie scramble.Lunch: Keto zucchini.		Dinner: Keto chicken stir fry.
+Sat/Breakfast: 	Keto omelet.	Lunch: Keto chicken stir.	Dinner: Keto seafood.
+Sun/Breakfast: 	Toast and eggs.	Lunch: Keto seafood.		Dinner: Garlic steak.
+~
+PALEO
+Mon/Breakfast:	Eggs,veggies,fruits.	Lunch: Chicken salad.	Dinner: Burger fried in butter.
+Tue/Breakfast:	Eggs and toast.		Lunch: Leftover burger.	Dinner:	Salmon and veggies.
+Wed/Breakfast:	Meat with veggies.	Lunch: Lettuce sandwich.Dinner: Fried beef and berries.
+Thu/Breakfast:	Eggs and fruit.		Lunch: Handful of nuts.	Dinner:	Roasted chicken.
+Fri/Breakfast:	Eggs and veggies.	Lunch: Chicken salad.	Dinner: Steak and sweet potatoes.
+Sat/Breakfast:	Eggs and fruit.		Lunch: Leftover steak.	Dinner: Baked Salmon.
+Sun/Breakfast:	Meat and veggies.	Lunch: Lettuce sandwich.Dinner:	Grilled chicken wings.
+~
+DASH
+Mon/Breakfast:	Whole-wheat bagel.	Lunch: Spinach salad.	Dinner:	Baked cod.
+Tue/Breakfast:	Mixed fruits.		Lunch: Curried chicken.	Dinner:	Spaghetti.
+Wed/Breakfast:	Cooked oatmeal.		Lunch: Tuna Salad.	Dinner:	Beef kebab.
+Thu/Breakfast:	Oatmeal,orange juice.	Lunch: Tomato Salad.	Dinner:	Brown rice.
+Fri/Breakfast:	Boiled eggs.		Lunch: Wheat toast.	Dinner:	Meatballs.
+Sat/Breakfast:	Peanut butter,1 banana.	Lunch: Grilled chicken.	Dinner:	Beef steak.
+Sun/Breakfast:	Oatmeal, skim milk.	Lunch: Chicken salad.	Dinner:	Roast beef.

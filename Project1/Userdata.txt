@@ -1,0 +1,13 @@
+sarah1,Entrepreneur,diet,workout,0,2
+jeremy,Entrepreneur,PALEO,workout,0,7
+laibababajee,9to5,PALEO,ENDURANCE,2,1
+umer,Housewife,diet,workout,1,1
+oop123,Housewife,PLANT,GENERAL,1,2
+yeetyeet,Housewife,DASH,workout,1,1
+hajra,UniStudent,DASH,YOGA,2,7
+saira,Entrepreneur,LOWFAT,GENERAL,1,2
+newhaj,Housewife,DASH,GENERAL,2,4
+hajrra,UniStudent,LOWFAT,ENDURANCE,1,1
+hashir,template,diet,workout,0,0
+sundas ,template,diet,workout,0,0
+rathore,template,diet,workout,0,0
